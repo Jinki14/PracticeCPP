@@ -16,7 +16,8 @@ PracticeCPP/
 │   ├── LLStack.cpp  
 │   ├── Node.h  
 │   ├── Node.cpp  
-├── LinkedListStack2/  # 향후 확장용  
+├── LinkedListStack2/  # 향후 확장 
+├── LinkedListQueue1/   
 └── .vscode/           # VSCode 설정 파일들  
 ```
 
