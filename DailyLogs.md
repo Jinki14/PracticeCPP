@@ -42,6 +42,31 @@
 
 ---
 
+## 📌 **2025-06-04:** 
+
+### **LinkedListQueue1 구현**
+
+- 단일 연결 리스트를 이용한 큐 구현 (typename T 저장)
+- 파일 구조
+  - `LinkedListStack1/`
+    - `main.cpp` : 테스트용 메인 함수
+    - `LLStack.h` : 스택 클래스 선언 및 구현
+    - `Node.h` : 노드 클래스 선언 및 구현
+- 주요 기능
+  - `enqueue`, `dequeue`, `frontItem`, `rearItem`, `printAll`, `clear` 구현
+- 컴파일 방법
+  ```
+  g++ main.cpp -o myQueuePractice1
+  ./myQueuePractice1
+
+#### 💭 **내 생각 (Thoughts)**
+
+- 사실 LinkedListQueue를 만들기 이전에 CircleQueue를 만들었었기에 쉬웠음
+- 그래서 단일 타입을 담는 queue 말고 아예 template으로 typename T를 담는 queue로 만들어 봤음 (AI 도움 있음)
+- 이거도 계속 만들어 보면서 queue와 template에 익숙해져 봐야겠음
+
+---
+
 ## 📌 **2025-06-XX:** 
 
 ---
